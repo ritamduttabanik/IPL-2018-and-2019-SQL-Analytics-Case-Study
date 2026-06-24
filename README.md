@@ -30,6 +30,11 @@ Applying strict conditional logic checks (`WHERE Economy_Rate < 7.0`), the syste
 
 ---
 
+
 ## 🎓 Acknowledgments & Mentorship
 
 This project was developed as an advanced analytics case study under the data engineering and training guidance of **Ivy Professional School**. Special thanks to my mentors for providing the foundational frameworks required to successfully map complex business intelligence schemas out of raw sports datasets.
+---
+
+## 🤝 Let's Connect!
+Check out my live discussion and insights about this project on LinkedIn: https://www.linkedin.com/posts/ritam-dutta-banik-5576ab2b7_cracking-ipl-insights-with-sql-2018-2019-activity-7471209620422852608--_VN?utm_source=share&utm_medium=member_android&rcm=ACoAAEwZb1MBQ8qKeABux_2hWEF3n8fmlOtjVWw
