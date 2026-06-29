@@ -33,7 +33,7 @@ Applying strict conditional logic checks (`WHERE Economy_Rate < 7.0`), the syste
 
 ## 🎓 Acknowledgments & Mentorship
 
-This project was developed as an advanced analytics case study under the data engineering and training guidance of **Ivy Professional School**. Special thanks to my mentors for providing the foundational frameworks required to successfully map complex business intelligence schemas out of raw sports datasets.
+This project was developed as an advanced analytics case study under the data engineering and training guidance of **Ivy Professional School**. Special thanks to my mentor Prateek Agrawal Sir for providing the foundational frameworks required to successfully map complex business intelligence schemas out of raw sports datasets.
 ---
 
 ## 🤝 Let's Connect!
